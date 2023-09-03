@@ -2,7 +2,7 @@
 
 Coinity is a web application that provides real-time information about cryptocurrencies. Explore the world of digital currencies, check the latest prices, market capitalization, and more.
 
-🔗 [Live Demo](#)
+🔗 [Live Demo](https://juangh19.github.io/coinity/)
 
 ## Features
 
